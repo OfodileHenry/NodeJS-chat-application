@@ -1,6 +1,12 @@
 # NodeJS-chat-application
 A chat application built on NodeJS socket io.
 
+It facilitates communication across the web between two or more people in real-time.
+
+On the development side: `Creating multiple tabs helps simulates a chat partner.`
+
+On the production side: `The url acts as an initiator to join conversations.`
+
 ### `npm start`
 
 Runs the app in the development mode.\
